@@ -1,0 +1,2 @@
+Run in One shell -> python -m http.server
+Run in second shell -> python app.py
